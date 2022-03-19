@@ -1,3 +1,3 @@
 # syrinxOS
  A Linux distro focused on simplicity and user friendliness.
-![619238b21ebfec6695bcf4332b8dcf92](https://user-images.githubusercontent.com/92740074/159129744-7e87243e-3f97-43e2-8c08-cbfe275b65a4.png)
+![syrinxOSDark](https://user-images.githubusercontent.com/92740074/159129817-14b54a61-251f-49b0-bf52-6d0eafe18f7b.png)
