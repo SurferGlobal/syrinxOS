@@ -4,12 +4,12 @@
 **A Linux distro focused on simplicity and user friendliness.**
 
 ---
+![syrinxOSDark](https://user-images.githubusercontent.com/92740074/159129817-14b54a61-251f-49b0-bf52-6d0eafe18f7b.png)
 
 ##  Introduction
 Syrinx OS is a modern Linux distribution designed to bridge the gap between power users and everyday computer users. Built with efficiency, stability, and usability at its core, Syrinx OS offers a streamlined experience that reduces complexity while maximizing performance.
 
 ---
-![syrinxOSDark](https://user-images.githubusercontent.com/92740074/159129817-14b54a61-251f-49b0-bf52-6d0eafe18f7b.png)
 
 ##  Efficiency Compared to Windows
 - **Lightweight Resource Usage**  
@@ -69,5 +69,3 @@ You are free to use, modify, and distribute it.
 ### Final Note
 Syrinx OS is not just another Linux distribution—it’s a vision for computing that prioritizes simplicity, efficiency, and user empowerment.  
 **A Linux distro focused on simplicity and user friendliness.**
-
-![syrinxOSDark](https://user-images.githubusercontent.com/92740074/159129817-14b54a61-251f-49b0-bf52-6d0eafe18f7b.png)
