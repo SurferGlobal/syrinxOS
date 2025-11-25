@@ -64,8 +64,3 @@ Syrinx OS thrives on collaboration. Join our forums, contribute to development, 
 Syrinx OS is open-source and distributed under the GNU General Public License (GPL).  
 You are free to use, modify, and distribute it.
 
----
-
-### Final Note
-Syrinx OS is not just another Linux distribution—it’s a vision for computing that prioritizes simplicity, efficiency, and user empowerment.  
-**A Linux distro focused on simplicity and user friendliness.**
